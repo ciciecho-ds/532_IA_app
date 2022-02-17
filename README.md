@@ -1,1 +1,2 @@
-# 532_IA_app
+# 532_IA
+Individual assignment for MDS 532. 
